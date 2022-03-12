@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 - 💻 &nbsp;
   Python | C++ | R (Statistics)
 - 🌐 &nbsp;
-  HTML | JavaScript | CSS | Node.js | ReactJS
+  HTML | JavaScript | CSS | PHP | D3.js | Node.js | ReactJS
 - 🛢 &nbsp;
   MySQL
 - ⚙️ &nbsp;
   Github | Markdown
 - 🔧 &nbsp;
-  Visual Studio Code | RStudio
+  Visual Studio Code | RStudio | Tensorflow | Keras | Anaconda | Jupyter Notebook
   
 <!--<div>
   <h3> 💻 Languages and Tools </h3>
