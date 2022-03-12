@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there! I'm Shao Chun Wang 👋 </h1>
 <h3 align="center">🚀 Full Stack Developer | Data Analyst | Machine Learning  🚀</h3>
 <div>
-<img width = "30%" align="right" alt="PIC" height="150px" src="https://www.linkpicture.com/q/virgnia_tech.png" />
+<img width = "30%" align="right" alt="PIC" height="120px" src="https://www.linkpicture.com/q/virgnia_tech.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
