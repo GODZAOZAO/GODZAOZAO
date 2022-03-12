@@ -65,7 +65,7 @@ Here are some ideas to get you started:
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/shao-chun-wang/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/shao-chun-wang/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
 <a href="https://www.instagram.com/aaronwang1023/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-instagram-48.png" alt="Instagram"></a> &nbsp; &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100000457877838"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-facebook-48.png" alt="Facebook"></a> &nbsp; &nbsp;
 <a href="mailto:shaochun@vt.edu"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
