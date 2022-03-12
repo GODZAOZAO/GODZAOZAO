@@ -27,7 +27,20 @@ Here are some ideas to get you started:
 </div> 
 </div>
 
-<div>
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  Python | C++ | R (Statistics)
+- 🌐 &nbsp;
+  HTML | JavaScript | CSS | Node.js | ReactJS
+- 🛢 &nbsp;
+  MySQL
+- ⚙️ &nbsp;
+  Github | Markdown
+- 🔧 &nbsp;
+  Visual Studio Code | RStudio
+  
+<!--<div>
   <h3> 💻 Languages and Tools </h3>
   <p>
     <img src="https://www.linkpicture.com/q/c_3.png" width="50">
@@ -44,7 +57,7 @@ Here are some ideas to get you started:
     <img src="https://www.linkpicture.com/q/react_1.png" width="130">
     <img src="https://www.linkpicture.com/q/vscode.png" width="150" height="65">
   <p>
-</div> 
+</div> -->
 
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
