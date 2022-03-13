@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  Python | C++ | R (Statistics)
+  C++ | Python | R (Statistics)
 - 🌐 &nbsp;
   HTML | JavaScript | CSS | PHP | D3.js | Node.js | ReactJS
 - 🛢 &nbsp;
