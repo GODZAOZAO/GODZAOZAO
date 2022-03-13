@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🔍 &nbsp; Activatly looking for 2022 software engineer summer internship
-  - 🎓 &nbsp; Studying M.S. in Computer Science at Virginia Tech.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+  - 🎓 &nbsp; Studying M.S. in Computer Science at Virginia Tech
+  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement
   - ✍️ &nbsp; Interested in Full Stack Development / Data Analytics / Machine Learning  
 </div> 
 </div>
