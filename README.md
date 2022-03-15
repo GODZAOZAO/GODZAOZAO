@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there! I'm Shao Chun Wang 👋 </h1>
-<h3 align="center">🚀 Full Stack Developer | Data Analyst | Machine Learning  🚀</h3>
+<h3 align="center">Full Stack Developer | Data Analyst | Machine Learning </h3>
 
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
