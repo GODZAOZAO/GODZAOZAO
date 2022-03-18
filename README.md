@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - 🛢 &nbsp;
   MySQL
 - ⚙️ &nbsp;
-  Github | Markdown
+  Github | Git | Markdown
 - 🔧 &nbsp;
   Visual Studio Code | RStudio | Tensorflow | Keras | Anaconda | Jupyter Notebook
   
