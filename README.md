@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 - 💻 &nbsp;
   C++ | Python | R (Statistics)
 - 🌐 &nbsp;
-  HTML | JavaScript | CSS | PHP | D3.js | Node.js | ReactJS
+  ReactJS | Express.js | Node.js | HTML | JavaScript | CSS | PHP | D3.js
 - 🛢 &nbsp;
-  MySQL
+  MySQL | MongoDB
 - ⚙️ &nbsp;
   Github | Git | Markdown
 - 🔧 &nbsp;
