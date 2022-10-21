@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🔍 &nbsp; Actively looking for 2022 software engineer summer internships 
+  - 🔍 &nbsp; Actively looking for 2023 SWE openings 
   - 🎓 &nbsp; Studying M.S. in Computer Science at Virginia Tech
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement
   - ✍️ &nbsp; Interested in Full Stack Development / Data Analytics / Machine Learning  
@@ -32,15 +32,15 @@ Here are some ideas to get you started:
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  C++ | Python | R (Statistics)
+  C++ | Python | R (Statistics) | Java
 - 🌐 &nbsp;
-  ReactJS | Express.js | Node.js | HTML | JavaScript | CSS | PHP | D3.js
+  ReactJS | Express.js | Node.js | TypeScript | JavaScript | Vue | Django | Postman | HTML | CSS 
 - 🛢 &nbsp;
-  MySQL | MongoDB
+  MySQL | MongoDB | SQL server | Oracle
 - ⚙️ &nbsp;
   Github | Git | Markdown
 - 🔧 &nbsp;
-  Visual Studio Code | RStudio | Tensorflow | Keras | Anaconda | Jupyter Notebook
+  Docker | Git | Azure DevOps
   
 <!--<div>
   <h3> 💻 Languages and Tools </h3>
